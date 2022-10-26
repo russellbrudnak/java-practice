@@ -4,10 +4,26 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("minecraft java");
-        System.out.println("man");
-        System.out.println("at");
-        System.out.println("haz");
-        System.out.println("bedroc jem");
+
+
+        int strong = 10;
+
+        System.out.println(strong);
+
+        String chest = """
+                x_x
+                xxx'
+                xxx
+                """;
+
+        String ruby = "ruby";
+        String halm = """
+                xxx
+                xrx
+                rrr
+                """;
+        System.out.println(chest);
+        System.out.println(ruby);
+        System.out.println(halm);
     }
 }
